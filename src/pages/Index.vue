@@ -14,9 +14,7 @@
           </q-input> </q-card-section
       ></q-card>
       <q-card-actions class="flex flex-center">
-        <q-btn color="primary" @click="onSendClick">
-          Поиск ключевых слов
-        </q-btn>
+        <q-btn color="primary" @click="onSendClick"> Поиск цитаты </q-btn>
       </q-card-actions>
       <q-card class="box-card" bordered>
         <q-card-section>

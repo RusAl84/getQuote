@@ -6,7 +6,7 @@ const axios = Axios.create({
 
 export default class API {
     static async sendMessage(text) {
-        const resp = await axios.post(`/ke`, {
+        const resp = await axios.post(`/gq`, {
             text: text
         })
         return resp.data

@@ -11,7 +11,7 @@
           @click="toggleLeftDrawer"
         />
         <q-toolbar-title>
-          Сервис извлечения терминологической информации из в текста
+          Разработка системы для интеллектуального поиска цитат
         </q-toolbar-title>
         <div>v 1.0</div>
       </q-toolbar>
